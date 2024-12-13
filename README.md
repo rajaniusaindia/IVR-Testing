@@ -9,6 +9,7 @@
 
 
 ### CYARA - Campaign Runs Report
-![Screenshot 2024-12-11 at 8 51 55 PM](https://github.com/user-attachments/assets/1e65e6ad-5bc8-4ee6-80f9-84d5124e783d)
+![Screenshot 2024-12-13 at 12 29 05 PM](https://github.com/user-attachments/assets/a4c2d6b6-abe2-4c08-ae0a-8824c5ed7b4b)
+
 
 
