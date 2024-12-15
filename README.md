@@ -1,6 +1,14 @@
 
 ## IVR Testing - Cyara Training
+
+### CYARA Modules - BUILD, EXECUTE, REPORTS, TOOLBOX, CX Model-CRAWLER, AGENT Testing/Virtual Agents
+
+<img width="1000" alt="CYARA MODULES-1" src="https://github.com/user-attachments/assets/2a8cbfe6-5e5b-4439-b2bc-9343e4adb7b8" />
+<img width="400" alt="CYARA MODULES-2" src="https://github.com/user-attachments/assets/b3db8beb-39f4-4f1c-8436-60e3a708ca81" />
+
+
 ### CYARA Test Case Sample
+
 <img width="1747" alt="Cyara Test Case" src="https://github.com/user-attachments/assets/4ab0cf4f-7aeb-4cd5-b0ec-f10e11366c49">
 
 
@@ -8,13 +16,25 @@
 ![Screenshot 2024-12-12 at 1 22 35 PM](https://github.com/user-attachments/assets/3635b470-306e-4c56-b99d-ce028eca0691)
 
 
-### CYARA - Campaign Runs Report - Automated Regression Velocity License
+### CYARA - Campaign Runs - Automated Regression Velocity License
 ![Screenshot 2024-12-13 at 12 29 05 PM](https://github.com/user-attachments/assets/a4c2d6b6-abe2-4c08-ae0a-8824c5ed7b4b)
+
+
+### CYARA - Campaign Report - Results Summary
+![Campaign Reports_1](https://github.com/user-attachments/assets/951c4b38-6a66-4e59-a831-79c91a6b468a)
+![Campaign Reports_2](https://github.com/user-attachments/assets/c52bce69-c643-4310-baa2-6eaeedd7be15)
+
+
+### CYARA - Dynamic Data - TAGS ({*} {Choice} {Currency}
+![TAGS-Dynamic-Data](https://github.com/user-attachments/assets/db8ab886-18bd-4268-aea8-2e0f45a57c95)
+
+
+### CYARA - CX Model - CRAWLER
+![CX Model-Crawler](https://github.com/user-attachments/assets/c07263cd-2768-40f6-a12d-797eb08ed4d3)
 
 
 ### CYARA - Load Testing Runs Report - Cruncher License
 ![Screenshot 2024-12-13 at 12 52 56 PM](https://github.com/user-attachments/assets/7e998781-ce0b-456b-bded-2caa283cf6bc)
-
 
 
 ### CYARA - Production Monitoring Runs Report - Pulse License
