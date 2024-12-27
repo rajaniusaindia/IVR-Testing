@@ -39,3 +39,17 @@
 
 ### CYARA - Production Monitoring Runs Report - Pulse License
 ![Picture1](https://github.com/user-attachments/assets/48ca6132-6475-481e-be00-72fb0cab3d33)
+
+### CYARA - Agent Testing CVA - Agent Behaviors
+![image](https://github.com/user-attachments/assets/3e64607c-fbe1-47f8-a0d8-7a1f3679d630)
+
+### CYARA - Agent Testing CVA - Agent Campaign
+![image](https://github.com/user-attachments/assets/ff61295d-0074-4177-a811-0d87b31a6149)
+
+### CYARA - Agent Testing CVA - Agent Transfer
+![image](https://github.com/user-attachments/assets/4a259b18-2fab-424c-b53d-3888de1d416e)
+
+
+
+
+
