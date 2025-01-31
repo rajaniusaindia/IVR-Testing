@@ -1,5 +1,5 @@
 
-## IVR Testing - Cyara (Top), Hammer HOD QA (Bottom, GENESYS Trainings
+## IVR Testing - Cyara (Top), Hammer HOD QA (Middel), GENESYS (Bottom) Trainings
 ## GENESYS onprem - WWE (Workspace Web Edition), 
 ## GAX - Genesys Adminstrator, Pulse - Monitoring Agents
 ## GENESYS-CYARA-VIRTUAL-Agent-Setup - Behaviors, Sites, Environments,Server, Behavior Activities
